@@ -7,7 +7,7 @@
 module.exports = {
   siteName: 'GUNDAM', // แก้ชื่อ
   siteDescription: 'Gundam Meister Setsuna F seiei', //แก้ชื่อ
-  siteUrl: 'https://Artsadthavud.github.io',
+  siteUrl: 'https://artsadthavud.github.io',
  // pathPrefix: '/6110110490_Gridsome_3',
   plugins: [
     {
